@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"Procesori"
+    },
+    {
+        "id":2,
+        "name":"Grafičke karte"
+    },
+    {
+        "id":3,
+        "name":"Matične ploče"
+    },
+    {
+        "id":4,
+        "name":"Napajanja"
+    },
+    {
+        "id":5,
+        "name":"Hard diskovi"
+    },
+    {
+        "id":6,
+        "name":"Kućišta"
+    },
+    {
+        "id":7,
+        "name":"RAM memorija"
+    }
+]

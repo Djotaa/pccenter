@@ -1,0 +1,218 @@
+[
+    {
+        "id":1,
+        "category":2,
+        "brand":1,
+        "name":"Asus PH-RX 550 2G-EVO",
+        "properties":["Veličina memorije: 2GB","Radni takt: 1183 MHz"],
+        "price":10285,
+        "img":{
+            "src":"rx550.png",
+            "alt":"AMD RX 550 grafička karta"
+        }
+    },
+    {
+        "id":2,
+        "category":2,
+        "brand":1,
+        "name":"Asus AREZ-DUAL-RX 580 O8G",
+        "properties":["Veličina memorije: 8GB","Radni takt: 1380 MHz"],
+        "price":24445,
+        "img":{
+            "src":"rx580.png",
+            "alt":"AMD RX 580 grafička karta"
+        }
+    },
+    {
+        "id":3,
+        "category":2,
+        "brand":1,
+        "name":"Asus GeForce CERBERUS-GTX 1050Ti-O4G",
+        "properties":["Veličina memorije: 4GB","Radni takt: 1480 MHz"],
+        "price":18495,
+        "img":{
+            "src":"1050ti.png",
+            "alt":"Nvidia 1050 Ti grafička karta"
+        }
+    },
+    {
+        "id":4,
+        "category":2,
+        "brand":1,
+        "name":"Asus GeForce STRIX-GTX 1650-4G-GAMING",
+        "properties":["Veličina memorije: 4GB","Radni takt: 1695MHz"],
+        "price":23110,
+        "img":{
+            "src":"gtx1650.jpg",
+            "alt":"Nvidia 1650 grafička karta" 
+        }
+    },
+    {
+        "id":5,
+        "category":4,
+        "brand":3,
+        "name":"Napajanje Gigabyte P450B 450 W",
+        "properties":["Snaga: 450W","Efikasnost: 80+ Bronza"],
+        "price":4713,
+        "img":{
+            "src":"napajanjeb450.jpg",
+            "alt":"Napajanje Gigabyte P450B"
+        }
+    },
+    {
+        "id":6,
+        "category":4,
+        "brand":3,
+        "name":"Napajanje Gigabyte P650B 650 W",
+        "properties":["Snaga: 650W","Efikasnost: 80+ Bronza"],
+        "price":7564,
+        "img":{
+            "src":"napajanjeb650.png",
+            "alt":"Napajanje Gigabyte B650B"
+        }
+    },
+    {
+        "id":7,
+        "category":6,
+        "brand":4,
+        "name":"MS INDUSTRIAL gejmersko kućište WINSTON",
+        "properties":["Tip: Midi Tower","Kompatibilnost: Micro-ATX, ATX"],
+        "price":3499,
+        "img":{
+            "src":"mswinston.png",
+            "alt":"Kućište MS Winston"
+        }
+    },
+    {
+        "id":8,
+        "category":6,
+        "brand":4,
+        "name":"MS Industrial kućište Warrior",
+        "properties":["Tip:Midi Tower","Kompatibilnost: Micro-ATX, Mini-ITX, ATX"],
+        "price":1999,
+        "img":{
+            "src":"mswarrior.png",
+            "alt":"Kućište MS Warrior"
+        }
+    },
+    {
+        "id":9,
+        "category":1,
+        "brand":6,
+        "name":"INTEL Pentium Gold G6400 4.00GHz",
+        "properties":["Socket: Intel 1200","Broj jezgara: 2","Radna frekvencija: 4.0GHz"],
+        "price":8499,
+        "img":{
+            "src":"intelg6400.png",
+            "alt":"Procesor Intel Pentium Gold G6400"
+        }
+    },
+    {
+        "id":10,
+        "category":1,
+        "brand":6,
+        "name":"INTEL Core i3-10100F 3.6GHz",
+        "properties":["Socket: Intel 1200","Broj jezgara: 4","Radna frekvencija: 3.6GHz"],
+        "price":12999,
+        "img":{
+            "src":"intel10100.png",
+            "alt":"Procesor Intel i3 10100F"
+        }
+    },
+    {
+        "id":11,
+        "category":1,
+        "brand":7,
+        "name":"AMD Ryzen 5 1600 3.2GHz",
+        "properties":["Socket: AMD AM4","Broj jezgara: 6","Radna frekvencija: 3.2GHz"],
+        "price":16999,
+        "img":{
+            "src":"ryzen1600.png",
+            "alt":"Procesor AMD Ryzen 5 1600"
+        }
+    },
+    {
+        "id":12,
+        "category":1,
+        "brand":7,
+        "name":"AMD RYZEN 3 3100 3.6GHz",
+        "properties":["Socket: AMD AM4","Broj jezgara: 4","Radna frekvencija: 3.6GHz"],
+        "price":18999,
+        "img":{
+            "src":"ryzen3100.png",
+            "alt":"Procesor AMD Ryzen 3 3100"
+        }
+    },
+    {
+        "id":13,
+        "category":3,
+        "brand":2,
+        "name":"MSI H410M-A PRO",
+        "properties":["Socket: Intel 1200","Čipset: Intel H410","Format: Micro ATX"],
+        "price":8499,
+        "img":{
+            "src":"msih410.png",
+            "alt":"Matična ploča MSI H410M-A Pro"
+        }
+    },
+    {
+        "id":14,
+        "category":3,
+        "brand":2,
+        "name":"MSI B450M PRO-M2 MAX",
+        "properties":["Socket: AMD AM4","Čipset: AMD B450","Format: Micro ATX"],
+        "price":9499,
+        "img":{
+            "src":"msib450.png",
+            "alt":"Matična ploča MSI B450M PRO-M2 MAX"
+        }
+    },
+    {
+        "id":15,
+        "category":5,
+        "brand":5,
+        "name":"Western Digital - WD5000AAKX, Caviar Blue 500GB",
+        "properties":["Kapacitet: 500GB","Broj obrtaja: 7200RPM","Konekcija: SATA III"],
+        "price":4000,
+        "img":{
+            "src":"wd5000aakx.png",
+            "alt":"Hard disk Western Digital - WD5000AAKX"
+        }
+    },
+    {
+        "id":16,
+        "category":5,
+        "brand":5,
+        "name":"Western Digital - WD10EZEX, Caviar Blue 1TB",
+        "properties":["Kapacitet: 1TB","Broj obrtaja: 7200RPM","Konekcija: SATA III"],
+        "price":5499,
+        "img":{
+            "src":"wd10ezex.jpg",
+            "alt":"Hard disk Western Digital - WD10EZEX"
+        }
+    },
+    {
+        "id":17,
+        "category":7,
+        "brand":8,
+        "name":"KINGSTON HyperX Fury Black 4GB HX432C16FB3/4",
+        "properties":["Kapacitet: 4GB DDR4","Brzina: 3200MHz"],
+        "price":3499,
+        "img":{
+            "src":"hyperx4gb.png",
+            "alt":"RAM memorija Kingston HyperX Fury Black 4GB"
+        }
+    },
+    {
+        "id":18,
+        "category":7,
+        "brand":8,
+        "name":"KINGSTON HyperX Fury Black 8GB HX432C16FB3/8",
+        "properties":["Kapacitet: 8GB","Brzina: 3200MHz"],
+        "price":5999,
+        "img":{
+            "src":"hyperx8gb.png",
+            "alt":"RAM memorija Kingston HyperX Fury Black 8GB"
+        }
+    }
+]

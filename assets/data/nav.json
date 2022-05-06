@@ -1,0 +1,18 @@
+[
+    {
+        "text":"Početna",
+        "href":"index.html"
+    },
+    {
+        "text":"Proizvodi",
+        "href":"proizvodi.html"
+    },
+    {
+        "text":"Kontakt",
+        "href":"kontakt.html"
+    },
+    {
+        "text":"O autoru",
+        "href":"autor.html"
+    }
+]

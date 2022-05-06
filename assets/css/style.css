@@ -1,0 +1,54 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.carousel-caption {
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.card {
+  border: 0px solid black !important;
+  background-color: transparent;
+  width: inherit !important;
+}
+
+.card:hover {
+  -webkit-box-shadow: 0px 0px 7px #778899;
+          box-shadow: 0px 0px 7px #778899;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+ul {
+  list-style-type: none;
+}
+
+footer p {
+  margin-bottom: 0rem !important;
+}
+
+footer ul li a {
+  color: #fff;
+}
+
+footer ul li a:hover {
+  color: #fff;
+}
+
+.itemQuantity {
+  width: 80px;
+}
+
+#prostor {
+  min-height: 80vh;
+}
+
+#kontakt {
+  text-align: center;
+}
+
+#kontakt i {
+  font-size: 1.5em;
+}
+/*# sourceMappingURL=style.css.map */

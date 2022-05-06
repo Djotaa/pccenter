@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "name":"ASUS"
+    },
+    {
+        "id":2,
+        "name":"MSI"
+    },
+    {
+        "id":3,
+        "name":"Gigabyte"
+    },
+    {
+        "id":4,
+        "name":"MS Industrial"
+    },
+    {
+        "id":5,
+        "name":"Western Digital"
+    },
+    {
+        "id":6,
+        "name":"Intel"
+    },
+    {
+        "id":7,
+        "name":"AMD"
+    },
+    {
+        "id":8,
+        "name":"Kingston"
+    }
+]
